@@ -9,8 +9,8 @@ Contained Two Android 4.2.2 Jerry Beans.<br>
 CPU: MT8125 Quad Core.<br>
 Contained Wacom's Pen panel.<br>
 Ram: about 1.GB<br>
-Manufacturer: Fujitsu<br>
-Contained USB Micro-B Port<br>
-Contained Micro HDMI Port<br>
+Manufacturer: Fujitsu.<br>
+Contained USB Micro-B Port.<br>
+Contained Micro HDMI Port.<br>
 Contained Micro SDCard Slot.<br>
 Preseted Language(Preseted Locales): Japanese<br>
