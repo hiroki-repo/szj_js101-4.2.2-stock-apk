@@ -13,4 +13,5 @@ Manufacturer: Fujitsu.<br>
 Contained USB Micro-B Port.<br>
 Contained Micro HDMI Port.<br>
 Contained Micro SDCard Slot.<br>
+Contained hear phone 2.5mm Jack.<br>
 Preseted Language(Preseted Locales): Japanese<br>
